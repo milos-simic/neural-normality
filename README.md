@@ -11,7 +11,7 @@ In order to run the experiments, you should have `python` (`3.9`) and `jupyter` 
 * `rpy2`
 * `matplotlib`
 * `dill`
-* `kgof` (available [here](https://github.com/wittawatj/kernel-gof/tree/master/kgof))
+* `kgof` (available [here](https://github.com/wittawatj/kernel-gof))
 
 Additionally, install `R` (`4.0.4`) and its libraries:
 * `nortest`

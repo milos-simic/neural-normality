@@ -36,8 +36,7 @@ Additionally, install `R` (`4.0.4`) and its libraries:
 7. (optional) If you want to find the critical values for the robustified tests by yourself, run `make_robust_tests.ipynb`. If not, you can use the critical values found in the original experiment, just make sure that you have file `robust_critical_values.p` and that you can `unpickle` it.
 8. (optional) If you want to find the optimal decision thresholds for DBNN by yourself, run `find_optimal_thresholds.ipynb`. Otherwise, you can use the threshold I found in the original experiment. Make sure that you have file `optimal_thresholds.p` and that you can `unpickle` it.
 9. To compare DBNNs to selected classical and robustified normality tests, as well se SBNN and a kernel test of goodness-of-fit, run the following notebooks:
-  * `run_C.ipynb` (powe analysis)
-  * `run_D.ipynb` (overall performance analysis)
-  * `run_F.ipynb` (robustness analysis)
-  * `run_R.ipynb` (comparison using real-world data)
-  10.
+    9.1. `run_C.ipynb` (power analysis),
+    9.2. `run_D.ipynb` (overall performance analysis),
+    9.3. `run_F.ipynb` (robustness analysis), and
+    9.4. `run_R.ipynb` (comparison using real-world data).

@@ -1,4 +1,4 @@
-# Testing for Normaity with Neural Networks
+# Testing for Normality with Neural Networks
 
 This is the code and data repository for the paper ["Testing for Normality with Neural Networks"](https://arxiv.org/abs/2009.13831).
 
